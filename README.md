@@ -1,6 +1,4 @@
 # SRT-Translator-with-DeepL-API-to-Korean
-# SRT Translator
-
 이 프로젝트는 DeepL API를 사용하여 SRT 파일 내의 자막을 번역하는 파이썬 스크립트입니다. Tkinter를 사용하여 파일 선택과 저장을 위한 GUI를 제공합니다.
 ## 예시 
 
