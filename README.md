@@ -8,6 +8,8 @@
 ![스크린샷 2024-07-12 174821](https://github.com/user-attachments/assets/ac6480a2-b3b7-46a6-9e55-d4bfd654efe9)
 
 
+![스크린샷 2024-07-12 175611](https://github.com/user-attachments/assets/7b8ec828-eaed-4435-8060-cf552ca8cfcc)
+
 ## 기능
 
 - SRT 파일 내의 자막을 번역
