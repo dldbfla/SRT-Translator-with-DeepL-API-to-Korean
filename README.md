@@ -15,7 +15,7 @@
 - `requests` 라이브러리
 - `tqdm` 라이브러리
 - `tkinter` 라이브러리 (대부분의 Python 배포판에 기본 포함)
-- DeepL API 키 
+- DeepL API 키(DEEPL_API_KEY = ''안에 지급받은 DeepL API 키를 넣으세요.)
 
 ## 설치
 
