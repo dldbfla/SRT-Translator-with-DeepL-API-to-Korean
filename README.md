@@ -2,6 +2,13 @@
 # SRT Translator
 
 이 프로젝트는 DeepL API를 사용하여 SRT 파일 내의 자막을 번역하는 파이썬 스크립트입니다. Tkinter를 사용하여 파일 선택과 저장을 위한 GUI를 제공합니다.
+## 예시 
+
+![스크린샷 2024-07-12 173252](https://github.com/user-attachments/assets/2bee5a84-b837-49dd-8983-55faab1be414)
+
+
+![스크린샷 2024-07-12 174821](https://github.com/user-attachments/assets/ac6480a2-b3b7-46a6-9e55-d4bfd654efe9)
+
 
 ## 기능
 
